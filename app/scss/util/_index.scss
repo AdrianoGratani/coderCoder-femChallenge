@@ -1,1 +1,5 @@
 // util _index.scss
+// file for variables and functions
+
+@forward 'breakpoints';
+@forward 'functions';

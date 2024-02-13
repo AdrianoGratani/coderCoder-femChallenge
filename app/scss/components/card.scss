@@ -1,0 +1,8 @@
+// you must IMPORT the `rem` function in order to utilize it;
+ 
+
+@use '../util' as *;
+ 
+.card {
+    padding: rem(20);
+}
