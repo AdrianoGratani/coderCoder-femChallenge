@@ -1,3 +1,8 @@
+## Setup SCSS environment;
+## Setup Gulp to compile Sass to CSS  / install the package.JSON file;
+
+
+
 # Functional Requirements and Notes
 
 Light/Dark Mode toggle -- takes system pref by default, but can override with toggle
